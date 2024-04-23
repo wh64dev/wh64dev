@@ -2,7 +2,7 @@
 
 ## 🚧 Projects
 - wh64-api (currently private)
-- project-bot (currently private)
+- project-logger (currently private)
 
 ## 🔗 Connect with me
 <div align="center" style="margin: 10px 0">
