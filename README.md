@@ -1,7 +1,8 @@
 # WH64's Personal Profile
 
 ## 🚧 Projects
-- Nothing
+- wh64-api (currently private)
+- project-bot (currently private)
 
 ## 🔗 Connect with me
 <div align="center" style="margin: 10px 0">
