@@ -1,4 +1,7 @@
 # WH64's Personal Profile
+```bash
+echo "Hello, World!"
+```
 
 ## 🚧 Projects
 - wh64-api (currently private)
