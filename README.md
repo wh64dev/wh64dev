@@ -5,7 +5,7 @@ echo "Hello, World!"
 
 ## 🚧 Projects
 - wh64-api (currently private)
-- project-logger (currently private)
+- [wfmirror](https://github.com/wh64dev/wfmirror)
 
 ## 🔗 Connect with me
 <div align="center" style="margin: 10px 0">
