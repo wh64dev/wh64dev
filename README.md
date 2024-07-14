@@ -37,7 +37,7 @@ echo "Hello, World!"
         <th>Language</th>
         <th>Application</th>
         <th>DevOps</th>
-    </th>
+    </tr>
     <tr>
         <td>
         <a style="text-decoration: none; margin: 0 2px" href="https://en.cppreference.com/w/c">
